@@ -20,6 +20,15 @@ SQL (DDL, DML, CTE, Window Functions)
 A clean and structured dataset (`layoffs_staging2`) ready for exploratory analysis and visualization.
 
 
+
+
+
+
+
+
+
+
+
 🔍 Project Title: Layoff Data – Exploratory Data Analysis in SQL
 
 📌 Overview
