@@ -1,5 +1,3 @@
-
-
 🧹 Project Title: Layoff Data Cleaning in MySQL
 
 📌 Overview
@@ -18,13 +16,6 @@ SQL (DDL, DML, CTE, Window Functions)
   
 🎯 Outcome
 A clean and structured dataset (`layoffs_staging2`) ready for exploratory analysis and visualization.
-
-
-
-
-
-
-
 
 
 
@@ -49,3 +40,46 @@ SQL (Aggregate Functions, GROUP BY, CTEs, Window Functions)**
 Generated a clear picture of global layoff trends over time, providing business insights for decision-makers and potential visualization in BI tools.
 
 
+
+
+
+
+Nordstrom Product EDA (MySQL Workbench)
+🛍️ Project Title: Exploratory Data Analysis on Nordstrom Products
+
+📌 Overview
+This project explores pricing, reviews, brand performance, and product features in Nordstrom's product catalog using SQL. The objective is to derive actionable business insights around customer behavior, brand trends, and value optimization.
+
+🛠️ Tools
+MySQL Workbench
+SQL (Aggregations, CTEs, Filtering, Sorting, Grouping)
+
+🔍 Key Analysis Areas
+1. Pricing Strategy
+* Identified top 5 discounted products
+* Found 494+ items sold below retail
+* Analyzed average retail vs current prices by brand
+
+2. Review & Engagement
+* Listed products with the highest review counts
+* Brands with average ratings > 4
+* Compared pricing vs product rating to study value perception
+
+3. Brand Performance
+* Ranked brands by product volume and review counts
+* Evaluated average price and rating by brand
+
+4. Color & Style Insights
+* Top 5 dominant colors by count
+* Colors with highest average ratings
+
+5. Value Identification
+* Highlighted brands offering high ratings and affordable prices
+* Flagged undervalued products (high rating, low reviews, low price)
+
+6. Advanced Comparison
+* Used CTEs to compare brand ratings against overall average
+* Identified best-reviewed individual product
+
+🎯 Outcome
+A set of targeted business insights to assist Nordstrom in product positioning, pricing decisions, inventory strategy, and brand optimization.
